@@ -19,3 +19,4 @@ Hot 100 刷题记录：每天一题，先自己写，再复盘优化。
 | 2026-11-19 | 4. 寻找两个正序数组的中位数 Median of Two Sorted Arrays | 已完成（切口二分 O(log(min(n,m)))；本地实测 12 组样例 + 边界通过） |
 | 2026-11-21 | 5. 最长回文子串 Longest Palindromic Substring | 已完成（中心扩展 O(n²)；本地严查实测通过） |
 | 2026-11-21 | 6. Z 字形变换 Zigzag Conversion | 已完成（下标周期法，中间行步长交替；本地严查实测 6 组通过） |
+| 2026-11-22 | 7. 整数反转 Reverse Integer | 已完成（逐位拆拼 + long long 事后判溢出；本地严查实测 10 组通过） |
